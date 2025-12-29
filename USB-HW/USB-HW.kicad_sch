@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "27938b37-fafd-44ff-ae98-e5596248ff54")
+	(paper "A4")
+	(title_block
+		(title "USB-HW")
+		(rev "0.1")
+		(company "Jorge Emilio Reynaga Sánchez")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
